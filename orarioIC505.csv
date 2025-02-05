@@ -1,23 +1,23 @@
-﻿stazione;codice;km;arrivo;partenza
-Ventimiglia;VEN;0;;06:37
-Sanremo;SRE;16;06:51;06:53
-Imperia;IMP;39;07:08;07:10
-Albenga;ALB;69;07:35;07:37
-Finale Ligure;FIN;86;07:50;07:52
-Savona;SAV;108;08:03;08:05
-Genova P.Principe;GEP;151;08:50;08:53
-Genova Brignole;GEB;154;08:59;09:01
-Rapallo;RAP;181;09:26;09:28
-Chiavari;CHV;190;09:35;09:37
-Sestri Levante;SEL;197;09:42;09:44
-La Spezia;SPE;241;10:15;10:19
-Massa Centro;MAS;274;10:47;10:49
-Viareggio;VIA;295;11:00;11:02
-Pisa Centrale;PIS;316;11:20;11:28
-Livorno Centrale;LIV;336;11:41;11:43
-Cecina;CEC;370;12:05;12:07
-Follonica;FOL;421;12:30;12:32
-Grosseto;GRO;464;12:52;12:54
-Civitavecchia;CIV;571;13:43;13:45
-Roma Ostiense;ROO;645;14:35;14:37
-Roma Termini;ROT;652;14:48;
+﻿stazione,codice,km,arrivo,partenza
+Ventimiglia,VEN,0,,06:37
+Sanremo,SRE,16,06:51,06:53
+Imperia,IMP,39,07:08,07:10
+Albenga,ALB,69,07:35,07:37
+Finale Ligure,FIN,86,07:50,07:52
+Savona,SAV,108,08:03,08:05
+Genova P.Principe,GEP,151,08:50,08:53
+Genova Brignole,GEB,154,08:59,09:01
+Rapallo,RAP,181,09:26,09:28
+Chiavari,CHV,190,09:35,09:37
+Sestri Levante,SEL,197,09:42,09:44
+La Spezia,SPE,241,10:15,10:19
+Massa Centro,MAS,274,10:47,10:49
+Viareggio,VIA,295,11:00,11:02
+Pisa Centrale,PIS,316,11:20,11:28
+Livorno Centrale,LIV,336,11:41,11:43
+Cecina,CEC,370,12:05,12:07
+Follonica,FOL,421,12:30,12:32
+Grosseto,GRO,464,12:52,12:54
+Civitavecchia,CIV,571,13:43,13:45
+Roma Ostiense,ROO,645,14:35,14:37
+Roma Termini,ROT,652,14:48,
